@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 38f06aab597c8c14abf53fb46e61d23e, type: 3}
+  m_Name: Rifle
+  m_EditorClassIdentifier: 
+  itemType: 0
+  itemSprite: {fileID: 1604653540, guid: 44add3f4c9a186b4797bfe6618a238f9, type: 3}
+  item: {fileID: 11400000, guid: d6f102b07e140784489ace76dd391f3e, type: 2}
+  title: Assault Rifle
+  description: No need explanation just awsome!
+  price: 700
