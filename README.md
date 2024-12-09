@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" alt="Counter Assailant" src="https://github.com/user-attachments/assets/c458031f-e7e0-4d9b-91f7-47e5a05e546f.png">
+  <img width="100%" alt="Counter Assailant" src="https://github.com/user-attachments/assets/c458031f-e7e0-4d9b-91f7-47e5a05e546f">
   </br>
 </p>
 
