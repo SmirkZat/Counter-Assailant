@@ -15,7 +15,7 @@ The game includes a Leaderboard feature that allows players to compare their sco
 Space Invaders is designed for accessibility, supporting various input methods, including keyboard and gamepad controls. Whether for casual enjoyment or competitive play, Space Invaders offers an entertaining platform for honing shooting skills in a classic arcade environment. Players can access their performance data and explore rankings through an intuitive online dashboard available via the game's official website.
 <br>
 ## ▶️ Video Gameplay
-<img src="Content/Declension.gif.gif" alt="1" style="width:50%;height:auto;">
+<img src="https://github.com/user-attachments/assets/3f46cd99-aa9a-4189-8ae9-337258461c2f.gif" alt="1" style="width:50%;height:auto;">
 View Full Gameplay :
 
 ## 🕹️Download Game
