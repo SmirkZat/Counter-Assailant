@@ -34,11 +34,11 @@ I make this game by myself.
 
 |  Script       | Description                                                  |
 | ------------------- | ------------------------------------------------------------ |
-| AddressableAssetsData |	Manages game assets efficiently, allowing dynamic loading and memory management for textures, audio, and other resources. Ensures optimal performance across different platforms. |
-| Art |	Contains all visual assets, including sprites for the player’s ship, alien invaders, and background elements, ensuring a cohesive retro aesthetic. |
-| Prefabs |	Houses reusable game objects such as the player’s spacecraft, enemy ships, and projectiles. Prefabs allow for easy instantiation and manipulation during gameplay. |
-| Scenes |	Includes different game scenes, such as the main menu, gameplay scene, and leaderboard scene, facilitating smooth transitions and gameplay flow. |
-| ScriptableObjects |	Holds configurable game data such as enemy types, wave patterns, and score thresholds. This allows designers to tweak game parameters without modifying code.|
+| .vscode |	Manages game assets efficiently, allowing dynamic loading and memory management for textures, audio, and other resources. Ensures optimal performance across different platforms. |
+| Assets |	Contains all visual assets, including sprites for the player’s ship, alien invaders, and background elements, ensuring a cohesive retro aesthetic. |
+| Packages |	Houses reusable game objects such as the player’s spacecraft, enemy ships, and projectiles. Prefabs allow for easy instantiation and manipulation during gameplay. |
+| ProjectSettings |	Includes different game scenes, such as the main menu, gameplay scene, and leaderboard scene, facilitating smooth transitions and gameplay flow. |
+| .gitattributes |	Holds configurable game data such as enemy types, wave patterns, and score thresholds. This allows designers to tweak game parameters without modifying code.|
 | Scripts |	Contains core scripts for gameplay mechanics and functionality, including: 
 | - GameManager.cs |	Oversees game states, such as starting the game, progressing through waves, and handling player input. Manages overall flow and difficulty scaling. |
 | - ScoreManager.cs	| Tracks player scores and lives. Responsible for submitting performance data to Google Sheets and updating scores in real-time. |
